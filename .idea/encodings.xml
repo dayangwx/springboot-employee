@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/config/LoginHandleInterceptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/config/MyLocaleResolver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/config/MyMvcConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/controller/loginController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/mapper/departmentMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/mapper/employeeMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/service/departmentService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/service/employeeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/service/impl/departmentServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/springwebnew/service/impl/employeeServiceImpl.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
